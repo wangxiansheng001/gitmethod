@@ -1,10 +1,10 @@
-#[./git_logo.png]
-#git
+#[./git_logo.png]  
+#git  
 
-##config 的三个作用域
+##config 的三个作用域  
 
-###缺省等于local
-###$ git config --local 只对某个仓库有效
+###缺省等于local  
+###$ git config --local 只对某个仓库有效  
 ###$ git config --global 当前所有仓库有效 
 ###$ git config --system 对系统所有登陆的用户有效
 
