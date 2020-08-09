@@ -1,3 +1,4 @@
+#[./git_logo.png]
 #git
 
 ##config 的三个作用域
