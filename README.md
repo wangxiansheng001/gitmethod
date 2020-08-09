@@ -1,4 +1,4 @@
-#[./git_logo.png]  
+![image text](https://github.com/wangxiansheng001/gitmethod/blob/master/git_logo.png)  
 #git  
 
 ##config 的三个作用域  
